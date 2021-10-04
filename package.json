@@ -2,7 +2,7 @@
 
 
 {
-  "homepage": "https://clam65.github.io/deploy-test"
+  "homepage": "https://clam65.github.io/deploy-test",
   "name": "deployment-testing",
   "version": "0.1.0",
   "private": true,
